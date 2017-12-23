@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=items
+comment0.target=PancakeHouseIterator(java.util.ArrayList)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ PancakeHouseIterator\n
+comment1.params=
+comment1.target=java.lang.Object\ next()
+comment2.params=
+comment2.target=boolean\ hasNext()
+numComments=3
